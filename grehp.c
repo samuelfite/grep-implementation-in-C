@@ -11,7 +11,7 @@
 #define MAX_LINE_LENGTH 256
 
 /*
- * LOOSE START : "printf" in "slakdfj printf_saldfkj"
+ * REGEX MATCHING RULES
  *
  * .  match any character
  * \d match any digit[0-9]
